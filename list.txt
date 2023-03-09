@@ -1,0 +1,2 @@
+REST APIs => use HTTP protocol & methods (e.x POST GET PUT DELETE)
+REST APIs => Stateless: contain all information the user needs
